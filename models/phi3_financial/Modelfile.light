@@ -1,0 +1,4 @@
+FROM phi3
+PARAMETER temperature 0.3
+PARAMETER top_p 0.9
+SYSTEM "Tu es un assistant financier francophone prudent et clair."

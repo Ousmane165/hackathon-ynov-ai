@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+logs/*.log
+models/**/*.bin
+models/**/*.safetensors
+medical_project/checkpoints/
+medical_project/outputs/

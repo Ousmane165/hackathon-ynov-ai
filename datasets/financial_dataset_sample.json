@@ -1,0 +1,10 @@
+[
+  {
+    "instruction": "Explique la différence entre chiffre d'affaires et bénéfice.",
+    "response": "Le chiffre d'affaires correspond au total des ventes. Le bénéfice correspond au résultat restant après déduction des charges."
+  },
+  {
+    "instruction": "Quels indicateurs suivre pour une PME ?",
+    "response": "Une PME peut suivre la marge brute, la trésorerie, le BFR, l'endettement, le chiffre d'affaires et le taux de conversion commercial."
+  }
+]
